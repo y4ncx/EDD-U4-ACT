@@ -1,4 +1,4 @@
-gpackage com.y4ncx.actividad;
+package com.y4ncx.actividad;
 
 import java.util.Map;
 

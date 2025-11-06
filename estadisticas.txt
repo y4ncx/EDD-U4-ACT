@@ -1,0 +1,19 @@
+Analizador de archivos numericos
+-------------------------------
+Total de valores: 9
+Minimo: -117.0
+Maximo: 100.0
+Promedio: 9.1111
+Mediana: 8.0000
+
+Primeros 10 valores ordenados:
+-117.0
+3.0
+5.0
+8.0
+8.0
+10.0
+23.0
+42.0
+100.0
+
